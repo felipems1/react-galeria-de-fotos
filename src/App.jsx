@@ -1,5 +1,5 @@
-import { RoutesMain } from "./routes/Routes";
-import { Header } from "./components/Header";
+import RoutesMain from "./routes";
+import Header from "./components/Header";
 
 const App = () => {
   return (
@@ -8,6 +8,6 @@ const App = () => {
       <RoutesMain />
     </>
   );
-}
+};
 
 export default App;

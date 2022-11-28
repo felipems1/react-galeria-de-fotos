@@ -1,1 +1,3 @@
-export const API = 'https://jsonplaceholder.typicode.com';
+const API = "https://jsonplaceholder.typicode.com";
+
+export default API;

@@ -22,7 +22,7 @@ const Home = () => {
   return (
     <C.Container>
       {albums.map((item) => (
-        <C.Album_List>
+        <C.Album_List key={item.id}>
           <Link to={`/${item.id}`} className="Link">
             {item.title}
           </Link>

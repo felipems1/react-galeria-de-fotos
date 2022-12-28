@@ -9,7 +9,7 @@
 ## 🔖 Layout
 
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/111329429/198776727-29582ab4-4b16-48ad-9bbd-92c575c47d07.mp4">
+  <video src="https://user-images.githubusercontent.com/111329429/209738006-8d939f50-dc46-4bdc-90d6-609974a2561b.mp4">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Consumindo uma API de fotos.
+Galeria de fotos.
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/) 
+[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)

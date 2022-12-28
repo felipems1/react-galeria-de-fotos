@@ -44,7 +44,7 @@ const Album = () => {
       <C.Title>{album.title}</C.Title>
       <C.Albums>
         {photos.map((item) => (
-          <Link to={`/${params.album}/${item.id}`}>
+          <Link key={item.id} to={`/${params.album}/${item.id}`}>
             <C.Photo src={item.url} />
           </Link>
         ))}
